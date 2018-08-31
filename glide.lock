@@ -1,0 +1,22 @@
+hash: 381c530ce9ffaa40130e95c07a88744572625e64e2034cab43946157913c267b
+updated: 2018-08-31T14:36:31.958590411+08:00
+imports:
+- name: github.com/daiguadaidai/go-d-bus
+  version: 7b57a502032107b9e58090244df97ebdcf930559
+  subpackages:
+  - common
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/juju/errors
+  version: 22422dad46e14561a0854ad42497a75af9b61909
+- name: github.com/ngaut/log
+  version: b8e36e7ba5ac61ce5644e570f1cc42d97dbaf8ed
+- name: github.com/outbrain/golib
+  version: ab954725f502c2be1491afadbbc66da2f99a45ae
+  subpackages:
+  - log
+- name: github.com/spf13/cobra
+  version: ef82de70bb3f60c65fb8eebacbb2d122ef517385
+- name: github.com/spf13/pflag
+  version: d929dcbb10863323c436af3cf76cb16a6dfc9b29
+testImports: []

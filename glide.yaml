@@ -1,0 +1,9 @@
+package: github.com/daiguadaidai/go-d-bus-password-generator
+import:
+- package: github.com/daiguadaidai/go-d-bus
+  version: ~1.0.0
+  subpackages:
+  - common
+- package: github.com/ngaut/log
+- package: github.com/spf13/cobra
+  version: ~0.0.3
